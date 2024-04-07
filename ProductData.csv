@@ -1,0 +1,11 @@
+ProductID,ProductName,Price,Quantity
+1,Laptop,1200,20
+1,Laptop,1200,20
+2,Smartphone,-800,50
+3,,,
+4,Headphones,150,100
+5,K_yboard,80,80
+6,Mouse,30,120
+7,Printer,250,15
+8,External Hard Drive,-200,25
+9,Monitor,300,40
